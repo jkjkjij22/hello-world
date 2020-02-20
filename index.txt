@@ -1,2 +1,4 @@
 "funny, accurate, & dark"
-accurate description of my life. 
+
+"-m 'message'" allows you to add any message to a commit
+
