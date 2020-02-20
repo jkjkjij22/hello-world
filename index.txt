@@ -1,4 +1,6 @@
 "funny, accurate, & dark"
+going to try to push
+
 
 "-m 'message'" allows you to add any message to a commit
 
